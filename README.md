@@ -1,4 +1,4 @@
-HTML9-Responsive-Boilerstrap-js
+# [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com)
 ===============================
 
-HTML9 Responsive Boilerstrap JS
+Not your grandmother's framework.
