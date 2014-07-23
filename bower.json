@@ -1,0 +1,27 @@
+{
+  "name": "HTML9-Responsive-Boilerstrap-js",
+  "version": "XM99Build64alphabetagamma.42",
+  "description": "Boom. Cross-universe compatible.",
+  "main": "js/html9responsiveboilerstrap.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "universe",
+    "explosions",
+    "cats",
+    "tentacles"
+  ],
+  "authors": [
+    "impressivewebs"
+  ],
+  "license": "CPLv2",
+  "homepage": "http://html9responsiveboilerstrapjs.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
